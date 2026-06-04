@@ -1,12 +1,13 @@
+
 Advanced Unit Converter
 
 Student Details
 
-- Full Name: Aditya
-- Roll No: 2403359
-- College: Dayalbagh Educational Institute
-- Internship Duration: 6 Weeks
-
+• Full Name: Aditya
+• Intern ID: CITS2598
+• Roll No: 2403359
+• College: Dayalbagh Educational Institute
+• Internship Duration: 6 Weeks
 ---
 
 Project Scope
