@@ -1,16 +1,23 @@
-# Advanced Unit Converter
+Advanced Unit Converter
 
-## Student Details
+Student Details
 
-- Name: Aditya
+- Full Name: Aditya
 - Roll No: 2403359
 - College: Dayalbagh Educational Institute
+- Internship Duration: 6 Weeks
 
 ---
 
-## Project Description
+Project Scope
 
-Advanced Unit Converter is a Python-based console application that performs multiple unit conversions through a menu-driven interface.
+This project is a Python-based Advanced Unit Converter that performs multiple unit conversions through a menu-driven interface. It supports length, weight, temperature, area, speed, and currency conversions.
+
+---
+
+Project Description
+
+Advanced Unit Converter is a Python console application that allows users to perform different types of unit conversions quickly and accurately.
 
 The program supports:
 
@@ -23,7 +30,7 @@ The program supports:
 
 ---
 
-## Features
+Features
 
 1. Kilometer to Meter
 2. Meter to Kilometer
@@ -40,29 +47,37 @@ The program supports:
 
 ---
 
-## Technologies Used
+Technologies Used
 
 - Python 3
 
 ---
 
-## Screenshots
+Source Code
+
+The complete source code is included in the file:
+
+"unit_converter.py"
+
+---
+
+Screenshots
 
 Project screenshots are included in this repository.
 
 ---
 
-## How to Run
+How to Run
 
-1. Open Python.
-2. Run `unit_converter.py`
+1. Open Python / Pydroid 3.
+2. Run "unit_converter.py".
 3. Select a conversion option.
 4. Enter the required value.
-5. Get the converted result.
+5. View the converted result.
 
 ---
 
-## Output Example
+Output Example
 
 Kilometer to Meter
 
